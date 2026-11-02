@@ -42,4 +42,4 @@ In use since 20 October 2026, running on a mini PC since 26 October 2026. It is 
 
 ## What is shown and what is kept private
 
-Only this README is public. The source is private because it contains business internals (outreach logic, lead data handling, cost data, operating ledgers), machine and network configuration, and a git history I have not scrubbed. The ideas above are the part worth sharing.
+Only this README is public. The source is private because it contains business internals (outreach logic, cost data, operating ledgers). The ideas above are the part worth sharing.
